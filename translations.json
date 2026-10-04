@@ -1,0 +1,118 @@
+{
+    "en": {
+        "navResearch": "Research",
+        "navTeam": "Team",
+        "navPublications": "Publications",
+        "navContact": "Contact",
+        "navMenu": "Menu",
+
+        "homeTitle": "Deciphering the circuit mechanisms of cognition in a miniature brain.",
+
+        "update1Title": "The lab opens!",
+        "update1Text": "Tanaka lab is a new lab at the Center for Evolutionary Cognitive Sciences, The University of Tokyo, Komaba campus.",
+        "update2Title": "",
+        "update2Text": "",
+        "update3Title": "",
+        "update3Text": "",
+
+        "researchTitle": "Research",
+        "researchH1": "Cognition requires persistence. But how?",
+        "researchP1": "A key characteristic of so-called cognitive functions (e.g., working memory, attention, decision making) is that they involve retaining information over multiple seconds. This is not a trivial task from a biophysics perspective, given that each neuron that comprises your brain typically operates at the timescale of milliseconds. Theoretical studies over the years have proposed that recurrent connections among fast neurons can create slower dynamics required for cognitive functions. However, testing these circuit-level predictions has remained challenging, especially in the large brains of mammalian models.",
+        "researchH2": "Larval zebrafish as a model",
+        "researchP2": "To overcome this challenge, we focus on the larval zebrafish. The larval zebrafish is the smallest vertebrate model organism commonly used in neuroscience, whose tiny brain consists of around 100,000 neurons. Various genetic tools for optically monitoring and manipulating the activity of specific groups of neurons are available in zebrafish, which is especially useful given that the body of the zebrafish larvae is nearly transparent. Despite its numerical simplicity, the larval zebrafish brain contains various types of neurons that exhibit sustained activity, which we believe would serve as great models to understand circuit mechanisms of cognition. Currently, we are focusing on studying the head direction neurons in the larval zebrafish brain.",
+        "researchH3": "Our approach: practical & philosophical",
+        "researchP3": "The two pillars of our experimental approaches are: (1) behavioral experiments with real-time tracking and (2) functional imaging in a virtual-reality environment with a two-photon microscope. We integrate various other techniques (e.g., computational modeling, optogenetics, histology and gene expression analyses, analyses of connectomic datasets) to help us better interpret behavioral and physiological data. On a more philosophical note, we believe in the importance of (1) concrete, falsifiable hypotheses to drive research forward, (2) plural explanations addressing functions, algorithms, and mechanisms of the brain, (3) evolutionary constraints that limit what is possible in the brain, and (4) environmental and physical constraints that drive convergence across taxa.",
+        
+        "teamTitle": "Team",
+        "rolePI": "Associate Professor",
+        "rolePostdoc": "Postdoctoral Researcher",
+        "roleGS": "Graduate Student",
+
+        "name001": "Ryosuke Tanaka",
+        "bio001": "Ryosuke studied behavioral and cognitive sciences at the UTokyo Komaba campus, then earned his Ph.D. in neuroscience from Yale in 2022, studying the visual system of Drosophila. As a postdoc, he studied circuit mechanisms of cognition in the larval zebrafish first at the Technical University of Munich, Germany, and then at RIKEN Center for Brain Science, Japan. After 9 years, he came back to Komaba to start his own lab. Ryosuke is a long-time fan of classical music and more recently he picked up knitting and lifting weights. Find his CV <a href='./cv.pdf' class='inline-link'>here</a>.",
+
+        "name002": "This could be you!",
+        "bio002": "We are looking for new members to join the lab. See the <a href='./contact.html' class='inline-link'>contact</a> page for the details.",
+        
+        "pubTitle": "Publications",
+        "pubIntro": "For the complete list of publications, see: ",
+        "pubMidHeader": "Selected works prior to the independence",
+
+        "pubType": "Journal article",
+        "pubType2": "Preprint",
+
+        "contactTitle": "Contact",
+        "emailLabel": "E mail",
+        "addressLabel": "Office Address",
+        "address": "Room 1733, Bldg. 17, Komaba I Campus, The University of Tokyo, 3-8-1 Komaba, Meguro-ku, Tokyo 153-8902",
+        "phoneLabel": "Phone number",
+        "affiLabel": "Affiliations",
+        "affis": "<ul><li><a class='inline-link' href='https://ecs.c.u-tokyo.ac.jp/wp/'>Center for Evolutionary Cognitive Sciences</a></li><li><a class='inline-link' href='https://bio.c.u-tokyo.ac.jp/komaba/'>Sub-department of Life Sciences</a></li><li><a class='inline-link' href='http://kouiki.c.u-tokyo.ac.jp'>Department of Multidisciplinary Sciences</a></li><li><a class='inline-link' href='https://www.c.u-tokyo.ac.jp/eng_site/'>Graduate School of Arts and Sciences</a></li><li><a class='inline-link' href='https://www.u-tokyo.ac.jp/en/index.html'>The University of Tokyo</a></li></ul>",
+        "accessLabel": "Access",
+        "access": "The campus is located right in front of the Komaba-Todaimae station on the Keio Inokashira line, which is only two stops away from the Shibuya station.",
+        "positionsTitle": "Join the lab",
+        "position1": "Postdoctoral researcher",
+        "position1Text": "Please contact Ryosuke if you are interested in joining our lab as a postdoc. Intenational scholars with PhD can apply to a postdoc fellowship provided by <a href='https://www.jsps.go.jp/english/e-fellow/index.html', class='inline-link'>JSPS</a>. Note that fellowships provided by national science agencies (e.g., EMBO, NSF) can often be used towards doing a postdoc abroad.",
+        "position2": "Graduate students",
+        "position2Text": "Students interested in conducting research in our lab to pursue graduate degrees should enroll into the <a href='https://www.c.u-tokyo.ac.jp/eng_site/info/academics/grad/mds/ls/' class='inline-link'>Sub-department of Life Sciences</a> at the Graduate School of Arts and Sciences. The applications for the 2-year MS program opens in June, and there are two calls for PhD students per year in June and December. International students pursuing PhD in Japan can apply to the <a href='https://www.jsps.go.jp/english/e-pd/' class='inline-link'>JSPS fellowships</a>, which will cover 2 or 3 years of stipend. There are also various programs to provide financial support to MS students. Admissions and fellowship infomation at UTokyo Koamaba campus can be found <a href='https://www.globalkomaba.c.u-tokyo.ac.jp/en/inbound/' class='inline-link'>here</a>. Contact Ryosuke if you are interested.",
+        "position3": "Undergrads",
+        "position3Text": "Ryosuke is not affiliated to undergraduate major programs and does not oversee undergrad thesis research. Nevertheless, feel free to reach out if you are an undergrad at UTokyo and is interested in our research!"
+    },
+    "ja": {
+        "navResearch": "研究",
+        "navTeam": "メンバー",
+        "navPublications": "論文",
+        "navContact": "連絡先",
+        "navMenu": "メニュー",
+
+        "homeTitle": "微小な脳で、<wbr>認知の回路機構に迫る。",
+        
+        "update1Title": "研究室がオープン",
+        "update1Text": "田中研究室は、東大総合文化研究科 進化認知科学研究センター（駒場Iキャンパス）に新設された研究室です。",
+        "update2Title": "",
+        "update2Text": "",
+        "update3Title": "",
+        "update3Text": "",
+
+        "researchTitle": "研究",
+        "researchH1": "持続的な情報表現の回路基盤",
+        "researchP1": "注意や意思決定、ワーキングメモリといった、いわゆる「認知機能」の重要な特徴は、数秒以上にわたる情報の時間的保持です。ところが、脳を形作るニューロン群は、個々はたかだか数ミリ秒というとても短い「記憶」しか持ちません。こうした「速い」ニューロンが集まって、持続的な情報表現を達成するためには、ニューロン同士が再起的に結合する、ループ状の回路構造が必要であるということが、理論的研究から長らく指摘されてきました。その一方で、こうした微小回路の構造やその機能を実際にテストすることは、とくに大きな脳を持つ哺乳類モデルでは非常に困難です。",
+        "researchH2": "モデル動物としてのゼブラフィッシュ稚魚",
+        "researchP2": "こうした困難を乗り越え、認知を支える微小回路の構造と機能を明らかにするため、私たちはゼブラフィッシュの稚魚に着目します。ゼブラフィッシュ稚魚は、たった10万ニューロンからなる大変小さな脳を持つ、最小の脊椎動物モデルのひとつです。また、ゼブラフィッシュにおいては、脳内の特定の細胞群の活動を光学的に可視化したり、操作するための遺伝学的ツールがよく整備されています。近年の研究から、ゼブラフィッシュ稚魚の脳が、様々な種類の持続発火ニューロンを含むことが明らかになっており、私たちはこれらの細胞群が認知の回路機構を理解するための絶好のモデルになりうると考えています。現在は、とくに稚魚の方位をコンパスのようにコードする細胞群についての研究に取り組んでいます。",
+        "researchH3": "研究のアプローチ",
+        "researchP3": "私たちの研究室の実験アプローチは、①リアルタイムで稚魚の動きを追跡しながら行う行動実験と、②二光子顕微鏡を用いたバーチャルリアリティ環境中での神経活動記録を二本の柱としています。加えて、行動・生理学データをよりよく解釈するため、計算論モデリング、光遺伝学、in situ法などによる遺伝子発現解析、コネクトーム解析などといった、様々な手法を活用します。よりメタ理論的な次元では、次のような視点を大事にしたいと思っています: ①反証可能な強い仮説が研究を前進させる。②脳の「良い理解」には、計算理論・アルゴリズム・生物学的機構、という三つのレベルでの多元的な記述が不可欠である。③脳計算は、進化的・発生学的条件によって制約されている。④生態学的・物理学的な制約が、分類群を超えた脳計算の収斂進化をもたらす。",
+        
+        "teamTitle": "メンバー",
+        "rolePI": "准教授",
+        "rolePostdoc": "博士研究員",
+        "roleGS": "大学院生",
+        "name001": "田中 涼介",
+        "bio001": "東大総合文化研究科で修士号取得（広域科学専攻 生命環境科学系 認知行動科学＋科学技術インタープリター副専攻）。博士課程では、米イェール大学でショウジョウバエの視覚系の研究に取り組み、2022年に学位取得。その後、ポスドクとして独ミュンヘン工科大および理研CBSでゼブラフィッシュ稚魚での認知の回路機構の研究に取り組む。2026年10月より現職（<a href='./cv.pdf' class='inline-link'>CV</a>）。趣味はクラシック音楽、編み物、筋トレ。",
+        "name002": "メンバー募集中！",
+        "bio002": "詳細は<a href='./contact.html' class='inline-link'>こちら</a>。",
+
+        "pubTitle": "論文",
+        "pubIntro": "論文の完全なリストはこちら: ",
+        "pubMidHeader": "2026年以前の主な論文",
+
+        "pubType": "査読済論文",
+        "pubType2": "プレプリント",
+
+        "contactTitle": "連絡先",
+        "emailLabel": "メール",
+        "addressLabel": "住所（オフィス）",
+        "address": "〒153-8902 東京都目黒区3-8-1<br>東京大学駒場Iキャンパス 17号館 3階 1733室",
+        "phoneLabel": "電話番号",
+        "affiLabel": "所属組織",
+        "affis": "<ul><li><a class='inline-link' href='https://ecs.c.u-tokyo.ac.jp/wp/'>進化認知科学研究センター</a></li><li><a class='inline-link' href='https://bio.c.u-tokyo.ac.jp/komaba/'>生命環境科学系</a></li><li><a class='inline-link' href='http://kouiki.c.u-tokyo.ac.jp'>広域科学専攻</a></li><li><a class='inline-link' href='https://www.c.u-tokyo.ac.jp/'>総合文化研究科</a></li><li><a class='inline-link' href='https://www.u-tokyo.ac.jp/ja/index.html'>東京大学</a></li></ul>",
+        "accessLabel": "アクセス",
+        "access": "京王井の頭線 駒場東大前駅より徒歩2分",
+        "positionsTitle": "メンバー募集",
+        "position1": "博士研究員",
+        "position1Text": "学振PD等の制度を用いた博士研究員の受け入れを行っています。ご興味のあるかたはお気軽にご相談ください。研究室の予算で研究員を公募する際には別途アナウンスします。",
+        "position2": "大学院生",
+        "position2Text": "総合文化研究科 広域科学専攻 生命環境科学系の兼担教員として、大学院生の受け入れを行っています。修士課程は4月入学で前年度6月出願、博士課程は4月・10月の入学が可能で出願は各入学の4ヶ月前です。出願を検討される方は、<a href='https://bio.c.u-tokyo.ac.jp/komaba/admissions/' class='inline-link'>生命環境科学系</a>および<a href='https://www.c.u-tokyo.ac.jp/graduate/admission/master-doctor/index.html' class='inline-link'>総合文化研究科</a>の入試案内を確認の上、田中までお気軽にご相談ください。学振特別研究員（DC）の受け入れも行っています。<a href='https://wings-abc.c.u-tokyo.ac.jp/' class='inline-link'>卓越大学院</a>プログラムやリサーチアシスタント制度といった経済的支援制度も利用可能です。",
+        "position3": "学部生",
+        "position3Text": "田中は卒業研究の指導は行なっていませんが、学部生で田中研での研究にご興味のある方はお気軽にご相談ください。ゼブラフィッシュの給餌のアルバイトも近日募集する予定です。"
+    }
+}

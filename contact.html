@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Contact | Tanaka Lab</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <header class="site-header">
+        <div class="container nav-shell">
+            <a class="brand" href="index.html"><span>Tanaka Lab<small>UTokyo Komaba</small></span></a>
+            <button class="menu-toggle" data-menu-toggle aria-expanded="false" aria-label="Open navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <nav class="nav-links" data-nav aria-label="Primary navigation">
+                <a href="research.html" data-i18n="navResearch">Research</a>
+                <a href="team.html" data-i18n="navTeam">Team</a>
+                <a href="publications.html" data-i18n="navPublications">Publications</a>
+                <a href="contact.html" data-i18n="navContact">Contact</a>
+            </nav>
+            <button class="lang-toggle" data-language-toggle data-lang-label>JA</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="page-intro">
+            <div class="container">
+                <h1 data-i18n="contactTitle">Contact</h1>
+            </div>
+        </section>
+        <section class="section">
+            <div class="container contact-grid">
+                <div>
+                    <ul class="contact-list">
+                        <li class="contact-item"><span data-i18n="emailLabel">E-mail</span>ryosuketanaka[at]g.ecc.u-tokyo.ac.jp</li>
+                        <li class="contact-item"><span data-i18n="phoneLabel">Phone</span>
+                        03-5454-6738</li>
+                        <li class="contact-item"><span data-i18n="affiLabel">Affiliations</span>
+                        <div data-i18n="affis"></div></li>
+                        <li class="contact-item"><span data-i18n="addressLabel">Office Address</span>
+                            <div data-i18n="address"></div>
+                        </li>
+                        <li class="contact-item"><span data-i18n="accessLabel">Access</span>
+                            <div data-i18n="access"></div>
+                        </li>
+                    </ul>
+                    
+                    <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d810.4099617573943!2d139.68323882985572!3d35.66124403165006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f351cbeb3a75%3A0x2291c274f647b23!2sBuilding%2017%2C%203-ch%C5%8Dme-8%20Komaba%2C%20Meguro%20City%2C%20Tokyo%20153-0041!5e0!3m2!1sen!2sjp!4v1790079679247!5m2!1sen!2sjp" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+                    
+                </div>
+                <div>
+                    <div class="eyebrow" data-i18n="positionsTitle">Join the lab</div>
+                    <article class="position">
+                        <h2 data-i18n="position1"></h2>
+                        <p data-i18n="position1Text"></p>
+                    </article>
+                    <article class="position">
+                        <h2 data-i18n="position2"></h2>
+                        <p data-i18n="position2Text"></p>
+                    </article>
+                    <article class="position">
+                        <h2 data-i18n="position3"></h2>
+                        <p data-i18n="position3Text"></p>
+                    </article>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="site-footer">
+        <div class="container footer-row">
+            <p>Tanaka Lab @ UTokyo Komaba</p>
+            <p>Ryosuke Tanaka © 2026</p>
+        </div>
+    </footer>
+</body>
+
+</html>
